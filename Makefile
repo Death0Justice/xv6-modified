@@ -186,6 +186,7 @@ UPROGS := \
 	_ls\
 	_mkdir\
 	_rm\
+	_selfmod\
 	_sh\
 	_stressfs\
 	_usertests\
